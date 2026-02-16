@@ -2,7 +2,7 @@
 <h3 align="center">Java Backend Developer | Spring Boot | REST APIs | Security</h3>
 
 <p align="center">
-  Passionate about building secure, scalable, and production-ready backend systems using Java and Spring Boot.
+  Backend-focused developer building secure, scalable, and production-ready applications using Java and Spring Boot.
 </p>
 
 ---
@@ -21,22 +21,28 @@ I enjoy writing clean, maintainable code and designing secure backend systems th
 ## 🚀 Featured Projects
 
 ### 🚗 Vehicle Parts Management System
-A backend-driven system to manage vehicle spare parts inventory and operations.
+Backend-driven inventory management system for handling vehicle spare parts operations.
 
-**Key Features:**
-- Add, update, delete vehicle parts
-- Stock quantity management
-- Search and filter functionality
-- Secure admin authentication
-- Database integration with MySQL
+**Highlights:**
+- Implemented full CRUD operations for parts management  
+- Designed stock quantity tracking & validation logic  
+- Integrated secure admin authentication  
+- Developed REST endpoints following MVC architecture  
+- Connected application with MySQL using Spring Data JPA  
+
+**Tech Stack:** Spring Boot, Spring Data JPA, Spring Security, HTML, CSS, JS, Thymeleaf, MySQL, REST APIs
+---
 
 ### 🔐 Spring Boot Authentication System
-- Role-Based Authentication & Authorization
-- Spring Security Integration
-- BCrypt Password Encryption
-- Login / Logout with Secure Session Handling
-- MySQL Database Integration  
-👉 **Tech Used:** Spring Boot, Spring Security, JPA, MySQL
+Secure role-based login system with modern security practices.
+
+**Highlights:**
+- Implemented Role-Based Access Control (Admin/User)  
+- Integrated Spring Security for authentication & authorization  
+- Used BCrypt for password encryption  
+- Configured secure session handling & endpoint protection  
+
+**Tech Stack:** Spring Boot, Spring Security, JPA, HTML, CSS, JS, Thymeleaf, MySQL  
 
 ---
 
@@ -84,12 +90,14 @@ A backend-driven system to manage vehicle spare parts inventory and operations.
 
 ---
 
+## 🎯 Career Objective
+
+Actively seeking opportunities as a **Java / Spring Boot Backend Developer** where I can contribute to building secure and scalable applications while continuously improving my technical expertise.
+
+---
+
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayavarapu-mahendra/)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rayavarapumahendra7103@gmail.com)
 
----
 
-## 🎯 Career Objective
-
-Actively seeking opportunities as a **Java / Spring Boot Backend Developer** where I can contribute to building secure and scalable applications while continuously improving my technical expertise.
