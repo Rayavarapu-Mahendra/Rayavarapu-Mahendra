@@ -1,15 +1,42 @@
-# 💫 About Me:
-- 🔭 Building secure authentication systems using Spring Boot & Spring Security  
-- 🌱 Currently learning JWT, Microservices & Backend System Design  
-- 👯 Open to collaborating on Java & Spring Boot projects  
-- 💬 Ask me about Spring Boot, REST APIs, MySQL, Authentication & Authorization  
-- ⚡ Passionate about writing clean, secure and scalable backend code  
+<h1 align="center">Hi 👋, I'm Rayavarapu Mahendra</h1>
+<h3 align="center">Java Backend Developer | Spring Boot | REST APIs | Security</h3>
+
+<p align="center">
+  Passionate about building secure, scalable, and production-ready backend systems using Java and Spring Boot.
+</p>
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayavarapu-mahendra/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rayavarapumahendra7103@gmail.com)
+## 💼 Professional Summary
+
+🎯 Aspiring Backend Developer specializing in **Java, Spring Boot, and Authentication Systems**.  
+🔐 Strong focus on **Spring Security, Role-Based Access Control, BCrypt, and RESTful APIs**.  
+🛠 Experienced in building full-stack applications using **Spring Boot + MySQL + JSP/Servlets**.  
+📈 Currently enhancing skills in **JWT, Microservices Architecture, and Backend System Design**.  
+
+I enjoy writing clean, maintainable code and designing secure backend systems that follow best practices.
+
+---
+
+## 🚀 Featured Projects
+
+### 🚗 Vehicle Parts Management System
+A backend-driven system to manage vehicle spare parts inventory and operations.
+
+**Key Features:**
+- Add, update, delete vehicle parts
+- Stock quantity management
+- Search and filter functionality
+- Secure admin authentication
+- Database integration with MySQL
+
+### 🔐 Spring Boot Authentication System
+- Role-Based Authentication & Authorization
+- Spring Security Integration
+- BCrypt Password Encryption
+- Login / Logout with Secure Session Handling
+- MySQL Database Integration  
+👉 **Tech Used:** Spring Boot, Spring Security, JPA, MySQL
 
 ---
 
@@ -46,3 +73,23 @@
 ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![STS](https://img.shields.io/badge/STS-6DB33F?style=for-the-badge)
+
+---
+
+## 📚 Currently Learning
+- JWT Authentication
+- Microservices Architecture
+- Backend Performance Optimization
+- System Design Fundamentals
+
+---
+
+## 🌐 Connect With Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayavarapu-mahendra/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rayavarapumahendra7103@gmail.com)
+
+---
+
+## 🎯 Career Objective
+
+Actively seeking opportunities as a **Java / Spring Boot Backend Developer** where I can contribute to building secure and scalable applications while continuously improving my technical expertise.
