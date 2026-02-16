@@ -1,84 +1,18 @@
-<h1 align="center">Hi 👋, I'm Rayavarapu Mahendra</h1>
-<h3 align="center">Java Backend Developer | Spring Boot | Spring Security | REST APIs | MySQL</h3>
+# 💫 About Me:
+- 🔭 I’m currently working on secure authentication systems using Spring Boot<br>- 🌱 I’m currently learning JWT, Microservices & Backend System Design<br>- 👯 I’m looking to collaborate on Java & Spring Boot projects<br>- 🤝 I’m looking for help with scalable backend architecture<br>- 💬 Ask me about Spring Boot, Spring Security, REST APIs, MySQL<br>- ⚡ Passionate about writing clean, secure and scalable backend code
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rayavarapu-mahendra/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rayavarapumahendra7103@gmail.com) 
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Rayavarapu-Mahendra&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Rayavarapu-Mahendra&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rayavarapu-Mahendra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Rayavarapu-Mahendra&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 👨‍💻 About Me
-
-- 🔭 I’m currently working on secure authentication systems using Spring Boot
-- 🌱 I’m currently learning JWT, Microservices & Backend System Design
-- 👯 I’m looking to collaborate on Java & Spring Boot projects
-- 🤝 I’m looking for help with scalable backend architecture
-- 💬 Ask me about Spring Boot, Spring Security, REST APIs, MySQL
-- ⚡ Passionate about writing clean, secure and scalable backend code
-
----
-
-## 🚀 Tech Stack
-
-### 💻 Programming Languages
-- Java
-- SQL
-- JavaScript
-
-### 🖥 Backend Development
-- Spring Boot
-- Spring MVC
-- Spring Security
-- Spring Data JPA
-- Hibernate
-- REST APIs
-- JDBC
-- Servlets
-- JSP
-
-### 🗄 Database
-- MySQL
-
-### 🎨 Frontend
-- HTML
-- CSS
-- React
-
-### 🛠 Tools & Technologies
-- Git
-- GitHub
-- Maven
-- Apache Tomcat
-- Eclipse / STS
-
----
-
-## 📌 Featured Project
-
-### 🔐 User Login & Registration System
-Secure authentication system with:
-- Email Verification
-- OTP-based Password Reset
-- Role-based Authorization
-- BCrypt Password Encryption
-
-👉 [View Project](https://github.com/Rayavarapu-Mahendra/Rayavarapu-Mahendra-User-Login-Registration-Mini)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rayavarapu-Mahendra&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayavarapu-Mahendra&theme=tokyonight" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/rayavarapu-mahendra/
-- GitHub: https://github.com/Rayavarapu-Mahendra
-
----
-
-⭐️ From Rayavarapu Mahendra
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
