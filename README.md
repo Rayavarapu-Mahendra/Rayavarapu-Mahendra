@@ -2,14 +2,14 @@
 <h3 align="center">Java Full Stack Developer | Spring Boot | REST APIs | Security</h3>
 
 <p align="center">
-  Backend-focused developer building secure, scalable, and production-ready applications using Java and Spring Boot.
+  Full-Stack developer building secure, scalable, and production-ready applications using Java and Spring Boot.
 </p>
 
 ---
 
 ## 💼 Professional Summary
 
-🎯 Aspiring Backend Developer specializing in **Java, Spring Boot, and Authentication Systems**.  
+🎯 Backend-Focused Full-Stack Developer specializing in **Java, Spring Boot, and Authentication Systems**.  
 🔐 Strong focus on **Spring Security, Role-Based Access Control, BCrypt, and RESTful APIs**.  
 🛠 Experienced in building full-stack applications using **Spring Boot + MySQL + JSP/Servlets**.  
 📈 Currently enhancing skills in **JWT, Microservices Architecture, and Backend System Design**.  
@@ -24,7 +24,7 @@ I enjoy writing clean, maintainable code and designing secure backend systems th
 Backend-driven inventory management system for handling vehicle spare parts operations.
 
 **Highlights:**
-- Implemented full CRUD operations for parts management  
+- Designed and implemented secure CRUD-based inventory system with validation and stock tracking, reducing data inconsistency and improving admin control.
 - Designed stock quantity tracking & validation logic  
 - Integrated secure admin authentication  
 - Developed REST endpoints following MVC architecture  
