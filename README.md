@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rayavarapu Mahendra</h1>
-<h3 align="center">Java Backend Developer | Spring Boot | REST APIs | Security</h3>
+<h3 align="center">Java Full Stack Developer | Spring Boot | REST APIs | Security</h3>
 
 <p align="center">
   Backend-focused developer building secure, scalable, and production-ready applications using Java and Spring Boot.
