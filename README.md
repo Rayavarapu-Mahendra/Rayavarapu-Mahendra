@@ -20,16 +20,19 @@ I enjoy writing clean, maintainable code and designing secure backend systems th
 
 ## 🚀 Featured Projects
 
-### 🚗 Vehicle Parts Management System
-Backend-driven inventory management system for handling vehicle spare parts operations.
+### 🚗 Employee Management System
+Enterprise-style employee management application designed to manage employees, departments, and role-based access securely.
 
 **Highlights:**
-- Designed and implemented secure CRUD-based inventory system with validation and stock tracking, reducing data inconsistency and improving admin control.
-- Designed stock quantity tracking & validation logic  
-- Integrated secure admin authentication  
-- Developed REST endpoints following MVC architecture  
-- Connected application with MySQL using Spring Data JPA  
+- Designed and implemented secure CRUD operations for Employee & Department management
+- Implemented Role-Based Access Control (Admin/HR/Employee) using Spring Security
+- Developed RESTful APIs following layered architecture (Controller → Service → Repository)
+- Integrated validation and exception handling for clean API responses
+- Implemented password encryption using BCrypt
+- Connected application with MySQL using Spring Data JPA
+- Structured DTO pattern for secure data transfer
 
+Tech Stack: Spring Boot, Spring Security, Spring Data JPA, Hibernate, REST APIs, MySQL, HTML, CSS, JS, Thymeleaf
 **Tech Stack:** Spring Boot, Spring Data JPA, Spring Security, HTML, CSS, JS, Thymeleaf, MySQL, REST APIs
 ---
 
