@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rayavarapu Mahendra</h1>
-<h3 align="center">Java Full Stack Developer | Spring Boot | REST APIs | Security</h3>
+<h3 align="center">Java Full Stack Developer | Spring Boot | Security</h3>
 
 <p align="center">
   Full-Stack developer building secure, scalable, and production-ready applications using Java and Spring Boot.
@@ -10,7 +10,7 @@
 ## 💼 Professional Summary
 
 🎯 Backend-Focused Full-Stack Developer specializing in **Java, Spring Boot, and Authentication Systems**.  
-🔐 Strong focus on **Spring Security, Role-Based Access Control, BCrypt, and RESTful APIs**.  
+🔐 Strong focus on **Spring Security, Role-Based Access Control, and BCrypt**.  
 🛠 Experienced in building full-stack applications using **Spring Boot + MySQL + JSP/Servlets**.  
 📈 Currently enhancing skills in **JWT, Microservices Architecture, and Backend System Design**.  
 
@@ -26,14 +26,13 @@ Enterprise-style employee management application designed to manage employees, d
 **Highlights:**
 - Designed and implemented secure CRUD operations for Employee & Department management
 - Implemented Role-Based Access Control (Admin/HR/Employee) using Spring Security
-- Developed RESTful APIs following layered architecture (Controller → Service → Repository)
-- Integrated validation and exception handling for clean API responses
+- Followed layered architecture (Controller → Service → Repository)
+- Integrated validation and exception handling
 - Implemented password encryption using BCrypt
 - Connected application with MySQL using Spring Data JPA
-- Structured DTO pattern for secure data transfer
 
-Tech Stack: Spring Boot, Spring Security, Spring Data JPA, Hibernate, REST APIs, MySQL, HTML, CSS, JS, Thymeleaf
-**Tech Stack:** Spring Boot, Spring Data JPA, Spring Security, HTML, CSS, JS, Thymeleaf, MySQL, REST APIs
+Tech Stack: Spring Boot, Spring Security, Spring Data JPA, Hibernate, MySQL, HTML, CSS, JS, Thymeleaf
+**Tech Stack:** Spring Boot, Spring Data JPA, Spring Security, HTML, CSS, JS, Thymeleaf, MySQL
 ---
 
 ### 🔐 Spring Boot Authentication System
@@ -62,7 +61,6 @@ Secure role-based login system with modern security practices.
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge)
 ![Servlets](https://img.shields.io/badge/Servlets-000000?style=for-the-badge)
 ![JSP](https://img.shields.io/badge/JSP-000000?style=for-the-badge)
