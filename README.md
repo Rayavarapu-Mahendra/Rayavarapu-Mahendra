@@ -31,7 +31,6 @@ Enterprise-style employee management application designed to manage employees, d
 - Implemented password encryption using BCrypt
 - Connected application with MySQL using Spring Data JPA
 
-Tech Stack: Spring Boot, Spring Security, Spring Data JPA, Hibernate, MySQL, HTML, CSS, JS, Thymeleaf
 **Tech Stack:** Spring Boot, Spring Data JPA, Spring Security, HTML, CSS, JS, Thymeleaf, MySQL
 ---
 
